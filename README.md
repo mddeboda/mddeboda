@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mddeboda
 - 👀 I’m interested in home automation, networking, powershell, microsoft 365, azure, intune, local AD
 - 🌱 I’m currently learning more powershell and more python
-- 💞️ I’m looking to collaborate on not sure yet
-- 📫 How to reach me: Discord request at Saloenus#9745 
+- 💞️ I’m looking to collaborate on Home automation stuff
+- 📫 How to reach me: Discord request at Saloenus#9745  
 - Ventrilo: just kidding
-- email: michael@kcmdtech.com
+- email: michael@mdeboda.net
 - email: ding@bing.blue
 
 <!---
