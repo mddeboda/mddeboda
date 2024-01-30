@@ -8,10 +8,9 @@ Hello there! 👋 I'm Mike DeBoda, a passionate IT manager with a deep love for 
 
 ## 🧑‍💻 Professional Background
 
-- 🏢 I work as the sole IT manager at Shorehaven Inc., where I'm responsible for all things technology. My work primarily involves managing and optimizing IT systems for a special needs school, and I typically do this remotely.
+- 🏢 I work as the sole IT manager at a private school where I'm responsible for all things technology. My work primarily involves managing and optimizing IT systems, and I typically do this remotely.
 - 🎓 I have a solid educational background with an associate degree in general studies from Cecil College (2015) and another associate degree in Intelligence Studies from Cochise College (2021). I've also earned certifications like CompTIA Network+, Security+, Pen Test+, and the Google IT Support Certificate from Coursera.
-- 💼 Early in my career, I worked as a help desk tech at Cecil College and served as an intelligence analyst for the Army National Guard from 2010 to 2015. I've also worked with Data Networks as a desktop deployment technician.
-- 🚀 My career goals include achieving financial independence by 2024, obtaining a CompTIA CySA+ certification by 2025, and continuously improving my professional skills.
+
 
 ## 🌟 Hobbies and Interests
 
