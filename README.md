@@ -19,7 +19,7 @@ Outside of my professional life, I've got diverse interests:
 - 🎥 I'm a fan of Marvel movies and shows, and I enjoy keeping up with the latest in pop culture.
 - 💪 I'm into resistance/strength training, which is part of my personal development journey.
 - 📚 Reading is a passion of mine, and I aim to read at least 30 minutes daily to expand my knowledge.
-- 🏡 I'm actively working on creating a modern basement patio with a firepit, exploring home lab setups, and diving into home automation.
+- 🏡 I'm actively trying to save up to create a modern basement/patio with a firepit, exploring home lab setups, and diving into home automation.
 - 🧘 Meditation helps me stay focused and maintain a balanced life.
 - 🥋 I have an interest in martial arts and self-improvement, drawing inspiration from great minds like Dale Carnegie, Jim Rohn, Jordan Peterson, and even fictional characters like Tony Stark.
 
