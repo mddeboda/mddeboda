@@ -9,7 +9,7 @@ Hello there! 👋 I'm Mike DeBoda, a passionate IT manager with a deep love for 
 ## 🧑‍💻 Professional Background
 
 - 🏢 I work as the sole IT manager at a private school where I'm responsible for all things technology. My work primarily involves managing and optimizing IT systems, and I typically do this remotely.
-- 🎓 I have a solid educational background with an associate degree in general studies from Cecil College (2015) and another associate degree in Intelligence Studies from Cochise College (2021). I've also earned certifications like CompTIA Network+, Security+, Pen Test+, and the Google IT Support Certificate from Coursera.
+- 🎓 I have an associate degree in general studies from Cecil College (2015) and another associate degree in Intelligence Studies from Cochise College (2021). I've also earned certifications like CompTIA Network+, Security+, Pen Test+, and the Google IT Support Certificate from Coursera.
 
 
 ## 🌟 Hobbies and Interests
