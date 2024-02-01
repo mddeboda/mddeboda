@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mddeboda
 - 👀 I’m interested in home automation, information security, network tech, microsoft 365
 - 🌱 I’m currently learning powershell and python
-- email: ding@bing.blue
+- email: mike@mdeboda.net
 # About Me
 
 Hello there! 👋 I'm Mike DeBoda, a passionate IT manager with a deep love for technology, continuous self-improvement, and all things related to AI and the digital world. I'm currently based in Oxford, PA, and I'm on a mission to become the best version of my former self each day.
