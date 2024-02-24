@@ -4,26 +4,26 @@
 - email: mike@mdeboda.net
 # About Me
 
-Hello there! 👋 I'm Mike DeBoda, a passionate IT manager with a deep love for technology, continuous self-improvement, and all things related to AI and the digital world. I'm currently based in Oxford, PA, and I'm on a mission to become the best version of my former self each day.
+Hello there! 👋 I'm Mike DeBoda, an IT manager interested in technology, continuous self-improvement, and all things  AI and the digital world. I'm currently based in Oxford, PA, and I'm on a mission to become the best version of my former self each day.
 
 ## 🧑‍💻 Professional Background
 
-- 🏢 I work as the sole IT manager at a private school where I'm responsible for all things technology. My work primarily involves managing and optimizing IT systems, and I typically do this remotely.
-- 🎓 I have an associate degree in general studies from Cecil College (2015) and another associate degree in Intelligence Studies from Cochise College (2021). I've also earned certifications like CompTIA Network+, Security+, Pen Test+, and the Google IT Support Certificate from Coursera.
+- 🏢 I work as the sole IT manager at a private school where I'm responsible for all information technology. My work primarily involves managing and optimizing IT systems, and I typically do this remotely.
+- 🎓 I have an associate degree in general studies from Cecil College (2015) and another associate degree in Intelligence Studies from Cochise College (2021). I hold CompTIA Network+, Security+, Pen Test+, and the Google IT Support Certificate from Coursera.
 
 
 ## 🌟 Hobbies and Interests
 
 Outside of my professional life, I've got diverse interests:
 
-- 🎥 I'm a fan of Marvel movies and shows, and I enjoy keeping up with the latest in pop culture.
-- 💪 I'm into resistance/strength training, which is part of my personal development journey.
-- 📚 Reading is a passion of mine, and I aim to read at least 30 minutes daily to expand my knowledge.
-- 🏡 I'm actively trying to save up to create a modern basement/patio with a firepit, exploring home lab setups, and diving into home automation.
-- 🧘 Meditation helps me stay focused and maintain a balanced life.
-- 🥋 I have an interest in martial arts and self-improvement, drawing inspiration from great minds like Dale Carnegie, Jim Rohn, Jordan Peterson, and even fictional characters like Tony Stark.
+- 🎥 I'm a fan of Marvel movies and shows.
+- 💪 I'm into resistance/strength training.
+- 📚 Reading is a passion, and I aim to read at least 30 minutes daily to expand my knowledge.
+## - 🏡 I'm actively trying to save up to create a modern basement/patio with a firepit, exploring home lab setups, and diving into home automation.
+- 🧘 Meditation helps me stay focused and present.
+- 🥋 I am interested in martial arts and self-improvement, I am inspired by Dale Carnegie, Jim Rohn, Jordan Peterson, and fictional characters like Tony Stark.
 
-Feel free to connect with me and join me on my journey of self-improvement and exploration of the digital world! 🚀
+Feel free to connect with me! 🚀
 
 You can reach me at [mike@mdeboda.net](mailto:mike@mdeboda.net) or connect with me on [LinkedIn](https://www.linkedin.com/in/michaelddeboda/).
 
