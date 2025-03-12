@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mddeboda
 - 👀 I’m interested in home automation, information security, network tech, microsoft 365
-- 🌱 I’m currently learning powershell and python
+- 🌱 I’m currently learning PowerShell, Python, and SQL
 - email: mike@mdeboda.net
 # About Me
 
