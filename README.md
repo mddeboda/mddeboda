@@ -4,12 +4,12 @@
 - email: mike@mdeboda.net
 # About Me
 
-Hello there! 👋 I'm Mike DeBoda, an IT manager interested in technology, continuous self-improvement, and all things  AI and the digital world. I'm currently based in Oxford, PA, and I'm on a mission to become the best version of my former self each day.
+Hello there! 👋 I'm Mike DeBoda, an IT Security enthusiast interested in tech, self-improvement, and philosophy.
 
-## 🧑‍💻 Professional Background
+## 🧑‍💻 Background
 
 - 🏢 I work as the sole IT manager at a private school where I'm responsible for all information technology. My work primarily involves managing and optimizing IT systems, and I typically do this remotely.
-- 🎓 I have an associate degree in general studies from Cecil College (2015) and another associate degree in Intelligence Studies from Cochise College (2021). I hold CompTIA Network+, Security+, Pen Test+, and the Google IT Support Certificate from Coursera.
+- 🎓 I have an associate degree in general studies from Cecil College (2015) and  associate degree in Intelligence Studies from Cochise College (2021). I hold CompTIA Network+, Security+, Pen Test+, and the Google IT Support Certificate from Coursera.
 
 - 🎥 I'm a fan of Marvel movies and shows.
 - 💪 I'm into resistance/strength training.
