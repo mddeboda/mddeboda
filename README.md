@@ -14,7 +14,6 @@ Hello there! 👋 I'm Mike DeBoda, an IT manager interested in technology, conti
 - 🎥 I'm a fan of Marvel movies and shows.
 - 💪 I'm into resistance/strength training.
 - 📚 Reading is a passion, and I aim to read at least 30 minutes daily to expand my knowledge.
-## - 🏡 I'm actively trying to save up to create a modern basement/patio with a firepit, exploring home lab setups, and diving into home automation.
 - 🧘 Meditation helps me stay focused and present.
 - 🥋 I am interested in martial arts and self-improvement, I am inspired by Dale Carnegie, Jim Rohn, Jordan Peterson, and fictional characters like Tony Stark.
 
