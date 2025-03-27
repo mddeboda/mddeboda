@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @mddeboda
-- 👀 I’m interested in automation, information security, network tech, microsoft 365.
-- 🌱 I’m currently learning PowerShell, Python, and SQL
-- email: mike@mdeboda.net
+-  I’m interested in automation, cybersecurity, network tech, microsoft 365.
+-  I’m currently learning PowerShell, Python, and SQL
 # About Me
 
-Hello there! 👋 I'm Mike DeBoda, an IT Security enthusiast interested in tech, self-improvement, and philosophy.
+I'm Mike DeBoda, an IT Security enthusiast interested in tech, self-improvement, and philosophy.
 
 ##  Background
 
