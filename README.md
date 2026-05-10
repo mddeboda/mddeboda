@@ -1,6 +1,8 @@
 # Interests
 -  I’m interested in automation, cybersecurity, networking, Microsoft 365/Entra/Azure.
--  I’m currently learning PowerShell, Python, and SQL
+-  I’m currently learning PowerShell, Python, Docker, Codex
+-  Currently reading Philosophy, Personal Development, Don Quixote, and Interpersonal Relationship books
+
 # About Me
 
 I'm Mike DeBoda, an IT Security enthusiast interested in tech, self-improvement, and philosophy.
