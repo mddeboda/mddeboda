@@ -15,8 +15,6 @@ I'm Mike DeBoda, an IT Security enthusiast interested in tech, self-improvement,
 -  Meditation helps me stay focused and present.
 -  I am interested in martial arts and self-improvement
 
-Fe
-
 
 <!---
 mddeboda/mddeboda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
