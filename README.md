@@ -17,7 +17,6 @@ I'm Mike DeBoda, an IT Security enthusiast interested in tech, self-improvement,
 
 Fe
 
-You can reach me at [mike@mdeboda.net](mailto:mike@mdeboda.net) or connect with me on [LinkedIn](https://www.linkedin.com/in/michaelddeboda/).
 
 <!---
 mddeboda/mddeboda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
