@@ -1,6 +1,6 @@
 # Interests
 -  I’m interested in automation, cybersecurity, networking, Microsoft 365/Entra/Azure.
--  I’m currently learning PowerShell, Python, Docker, Codex
+-  I’m currently learning PowerShell, Python, Docker
 -  Currently reading Philosophy, Personal Development, Don Quixote, and Interpersonal Relationship books
 
 # About Me
@@ -10,7 +10,7 @@ I'm Mike DeBoda, an IT Security enthusiast interested in tech, self-improvement,
 ##  Background
 
 -  I work as the sole IT manager at a private school where I'm responsible for all information technology. My work primarily involves managing and optimizing IT systems, and I typically do this remotely.
--  I have an associate degree in general studies from Cecil College (2015) and  associate degree in Intelligence Studies from Cochise College (2021). I hold CompTIA Network+, Security+, Pen Test+, CySA+ and Cisco Ethical Hacker certificate.
+-  I hold CompTIA Network+, Security+, Pen Test+, CySA+ and Cisco Ethical Hacker.
 
 -  I'm a fan of Marvel movies and shows.
 -  I'm into resistance/strength training.
