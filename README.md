@@ -1,22 +1,11 @@
 # Interests
--  I’m interested in automation, cybersecurity, networking, Microsoft 365/Entra/Azure.
--  I’m currently learning PowerShell, Python, Docker
--  Currently reading Philosophy, Personal Development, Don Quixote, and Interpersonal Relationship books
+
 
 # About Me
 
-I'm Mike DeBoda, an IT Security enthusiast interested in tech, self-improvement, and philosophy.
+I'm Mike
 
 ##  Background
-
--  I work as the sole IT manager at a private school where I'm responsible for all information technology. My work primarily involves managing and optimizing IT systems, and I typically do this remotely.
--  I hold CompTIA Network+, Security+, Pen Test+, CySA+ and Cisco Ethical Hacker.
-
--  I'm a fan of Marvel movies and shows.
--  I'm into resistance/strength training.
--  Currently reading over Plato's dialogues and Aristotle's Politics.
--  Meditation helps me stay focused and present.
--  I am interested in martial arts and self-improvement
 
 
 <!---
